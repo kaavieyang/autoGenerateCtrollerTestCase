@@ -15,6 +15,7 @@ import org.hibernate.validator.constraints.NotBlank;
 /**
  * @author 作者 :kaavie
  * @version 创建时间：2015年11月29日 下午1:49:30 类说明
+ * @remark 这个类中的方法主要是用于反射，从而达到方法的无侵入性
  */
 public class GenerateMethod {
 
